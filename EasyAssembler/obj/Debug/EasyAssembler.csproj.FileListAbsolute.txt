@@ -1,0 +1,11 @@
+D:\Projects\C#\EasyAssembler\EasyAssembler\bin\Debug\EasyAssembler.exe.config
+D:\Projects\C#\EasyAssembler\EasyAssembler\bin\Debug\EasyAssembler.exe
+D:\Projects\C#\EasyAssembler\EasyAssembler\bin\Debug\EasyAssembler.pdb
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.csprojResolveAssemblyReference.cache
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.Properties.Resources.resources
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.csproj.GenerateResource.Cache
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.exe
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.pdb
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.Main.resources
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.Settings.resources
+D:\Projects\C#\EasyAssembler\EasyAssembler\obj\Debug\EasyAssembler.SettingsOld.resources
